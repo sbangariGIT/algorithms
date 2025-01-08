@@ -1,5 +1,5 @@
 class Solution:
-    def search(self, nums: [int], target: int) -> int:
+    def search(self, nums, target: int) -> int:
         left = 0
         right = len(nums) - 1
 
